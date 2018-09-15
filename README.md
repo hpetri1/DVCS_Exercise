@@ -33,7 +33,7 @@ Short Answer & Multiple Choice:
 	2.	downstream
 	3.	origin
 	4.	clone
-9.	When you make a local copy of a GitHub repository, you are effectively ___3___ that repository. 
+9.	When you make a local copy of a GitHub repository, you are effectively ___2___ that repository. 
 	1.	forking
 	2.	cloning
 	3.	copying
